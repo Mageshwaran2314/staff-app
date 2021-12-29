@@ -8,7 +8,7 @@ username/password: admin/admin
 | ------ | ------ |
 | employee from | http://127.0.0.1:8000/empfv/ |
 | Department list | http://127.0.0.1:8000/dep/ |
-| Department detail | http://127.0.0.1:8000/dep/<pk> |
+| Department detail | http://127.0.0.1:8000/dep/[pk] |
 
 ## Django Questions : 
 
