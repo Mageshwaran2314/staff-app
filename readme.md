@@ -6,9 +6,9 @@ username/password: admin/admin
 
 | Page | URL |
 | ------ | ------ |
-| employee from | [http://127.0.0.1:8000/empfv/][PlDb] |
-| Department list | [http://127.0.0.1:8000/dep/][PlGh] |
-| Department detail | [http://127.0.0.1:8000/dep/<pk>][PlGd] |
+| employee from | http://127.0.0.1:8000/empfv/ |
+| Department list | http://127.0.0.1:8000/dep/ |
+| Department detail | http://127.0.0.1:8000/dep/<pk>|
 
 ## Django Questions : 
 
